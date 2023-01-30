@@ -6,7 +6,7 @@
 // To verify your code is working properly, try and change the values of x and y.
 // As an additional challenge, print out The values are identical. if x and y have the same value.
 
-let x = 2;
+let x = 1;
 let y = 2;
 
 if (x > y) {
