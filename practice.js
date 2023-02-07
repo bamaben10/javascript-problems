@@ -6,17 +6,6 @@
 // To verify your code is working properly, try and change the values of x and y.
 // As an additional challenge, print out The values are identical. if x and y have the same value.
 
-// let x = 1;
-// let y = 2;
-
-// if (x > y) {
-//   console.log(x);
-// } else if (y > x) {
-//   console.log(y);
-// } else {
-//   console.log("The values are identical");
-// }
-
 let x = 1;
 let y = 2;
 
@@ -27,3 +16,14 @@ if (x > y) {
 } else {
   console.log("the values are identical");
 }
+
+// let x = 1;
+// let y = 2;
+
+// if (x > y) {
+//   console.log(x);
+// } else if (y > x) {
+//   console.log(y);
+// } else {
+//   console.log("The values are identical");
+// }
